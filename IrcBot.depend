@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1399134800 source:/home/noxshroom/Documents/IrcBot/main.cpp
+	"IrcBot.h"
+
+1399285770 source:/home/noxshroom/Documents/IrcBot/IrcBot.cpp
+	"IrcBot.h"
+
+1399283414 /home/noxshroom/Documents/IrcBot/IrcBot.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<errno.h>
+	<string.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<netdb.h>
+	<arpa/inet.h>
+	<sys/wait.h>
+	<signal.h>
+	<time.h>
+	"ICommand.h"
+	"CommandFactory.h"
+	"XMLHandler.h"
+
+1399282838 source:/home/noxshroom/Documents/IrcBot/CommandFactory.cpp
+	"CommandFactory.h"
+	"LinkCommand.h"
+	"AddLinkCommand.h"
+	"AddDoxCommand.h"
+	"DoxCommand.h"
+
+1399138757 /home/noxshroom/Documents/IrcBot/CommandFactory.h
+	<string>
+	<sstream>
+	"ICommand.h"
+
+1399141892 /home/noxshroom/Documents/IrcBot/ICommand.h
+	<string>
+
+1397754470 source:/home/noxshroom/Documents/IrcBot/tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<cstddef>
+
+1397754470 /home/noxshroom/Documents/IrcBot/tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cstdarg>
+	<android/log.h>
+	<assert.h>
+
+1399135134 /home/noxshroom/Documents/IrcBot/LinkCommand.cpp
+	"ICommand.h"
+
+1399285174 /home/noxshroom/Documents/IrcBot/LinkCommand.h
+	"ICommand.h"
+	"IrcBot.h"
+
+1399282948 source:/home/noxshroom/Documents/IrcBot/XMLHandler.cpp
+	"XMLHandler.h"
+	<iostream>
+	<list>
+
+1399281806 /home/noxshroom/Documents/IrcBot/XMLHandler.h
+	"tinyxml2.h"
+	<string>
+
+1399140907 source:/home/noxshroom/Documents/IrcBot/AddLinkCommand.cpp
+	"AddLinkCommand.h"
+
+1399285222 /home/noxshroom/Documents/IrcBot/AddLinkCommand.h
+	"ICommand.h"
+	"IrcBot.h"
+
+1399141161 source:/home/noxshroom/Documents/IrcBot/main.cxx
+	"IrcBot.h"
+
+1399283950 /home/noxshroom/Documents/IrcBot/AddDoxCommand.h
+	"ICommand.h"
+	"IrcBot.h"
+
+1399285270 /home/noxshroom/Documents/IrcBot/DoxCommand.h
+	"ICommand.h"
+	"IrcBot.h"
+

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<Links>
+    <Link name="me" url="you"/>
+    <Link name="testi" url="Toimi"/>
+    <Link name="you" url="me"/>
+    <Link name="iltis" url="http://www.iltalehti.fi"/>
+    <Link name="hesari" url="www.hs.fi"/>
+    <Link name="testaaja" url="testaa"/>
+    <Link name="uusi" url="linkki"/>
+    <Link name="jottain" url="testaa"/>
+</Links>
